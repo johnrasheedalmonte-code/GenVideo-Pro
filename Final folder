@@ -1,0 +1,8 @@
+video-ai-app/
+│── app.py
+│── requirements.txt
+│
+├── templates/
+│     └── index.html
+│
+└── output/
