@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Video Generator</title>
+</head>
+<body style="text-align:center; font-family:Arial;">
+
+<h1>AI TEXT → VIDEO GENERATOR</h1>
+
+<form method="post" action="/generate">
+
+    <textarea name="text" rows="8" cols="50"
+    placeholder="Ilagay ang script mo dito..."></textarea>
+
+    <br><br>
+
+    <button type="submit">Generate Video</button>
+
+</form>
+
+</body>
+</html>
